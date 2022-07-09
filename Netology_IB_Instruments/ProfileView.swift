@@ -10,5 +10,16 @@ import UIKit
 
 
 class ProfileView: UIView {
+  
+    @IBOutlet weak var profileImage: UIImageView!
+    
+    @IBOutlet weak var nameLabel: UILabel!
+    
+    @IBOutlet weak var birthDateLabel: UILabel!
+    
+    @IBOutlet weak var birthPlaceLabel: UILabel!
+    @IBOutlet weak var descriptionTextView: UITextView!
+    
+    
     
 }

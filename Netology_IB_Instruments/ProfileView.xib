@@ -8,7 +8,15 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
-        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ProfileView" customModule="Netology_IB_Instruments" customModuleProvider="target">
+            <connections>
+                <outlet property="birthDateLabel" destination="1px-RV-rw7" id="if7-LS-nZp"/>
+                <outlet property="birthPlaceLabel" destination="8Pg-oP-hog" id="Jow-Hr-fAH"/>
+                <outlet property="descriptionTextView" destination="WJ8-bR-3y8" id="r6K-Oh-zyO"/>
+                <outlet property="nameLabel" destination="et7-Sg-7xE" id="XK2-bS-Xw4"/>
+                <outlet property="profileImage" destination="zk3-Ch-zXK" id="RA1-GT-MiP"/>
+            </connections>
+        </placeholder>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
         <view contentMode="scaleToFill" id="iN0-l3-epB">
             <rect key="frame" x="0.0" y="0.0" width="414" height="300"/>
