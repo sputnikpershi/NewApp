@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F49C10B28797D2D0044744B /* ProfileView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4F49C10A28797D2D0044744B /* ProfileView.xib */; };
 		4FD366CE28796D25004C8BCA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD366CD28796D25004C8BCA /* AppDelegate.swift */; };
 		4FD366D028796D25004C8BCA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD366CF28796D25004C8BCA /* SceneDelegate.swift */; };
 		4FD366D228796D25004C8BCA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD366D128796D25004C8BCA /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4F49C10A28797D2D0044744B /* ProfileView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProfileView.xib; sourceTree = "<group>"; };
 		4FD366CA28796D25004C8BCA /* Netology_IB_Instruments.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Netology_IB_Instruments.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FD366CD28796D25004C8BCA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4FD366CF28796D25004C8BCA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				4FD366CD28796D25004C8BCA /* AppDelegate.swift */,
 				4FD366CF28796D25004C8BCA /* SceneDelegate.swift */,
 				4FD366D128796D25004C8BCA /* ViewController.swift */,
+				4F49C10A28797D2D0044744B /* ProfileView.xib */,
 				4FD366D328796D25004C8BCA /* Main.storyboard */,
 				4FD366D628796D28004C8BCA /* Assets.xcassets */,
 				4FD366D828796D28004C8BCA /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F49C10B28797D2D0044744B /* ProfileView.xib in Resources */,
 				4FD366DA28796D28004C8BCA /* LaunchScreen.storyboard in Resources */,
 				4FD366D728796D28004C8BCA /* Assets.xcassets in Resources */,
 				4FD366D528796D25004C8BCA /* Main.storyboard in Resources */,
